@@ -23,7 +23,70 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="3Sum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="3SumClosest.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AddTwoNumbers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BinarySearchClosest.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ContainerWithMostWater.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FourSum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GenerateParen.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LongestCommonPrefix.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LongestPalindrome.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LongestSubstringWithoutRepeat.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MedianOfSorted.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MergeKSortedList.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MergeTwoSortedList.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PalindromeNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RegularExpressionMatching.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RemoveNthNode.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ReverseInteger.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="StringToInteger.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="TwoSum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TwoSumClosest.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ValidParentheses.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZigzagConversion.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

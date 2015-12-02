@@ -8,7 +8,7 @@ class Solution1:
                 return (dict[target-x]+1,i+1);
             dict[x] = i
         
-
+    
 class Solution2:
     # @return a tuple, (index1, index2)
     def twoSum(self, num, target):
@@ -51,6 +51,19 @@ class Solution3:
                   i = i + 1
                else :
                   j = j - 1
+class Solution4:
+    def twoSum(self,nums,left,right,target):
+        result=[];
+        while(left<right):
+            if(nums[left]+nums[right]==target):
+                if([nums[left],nums[right]] not in result):
+                    result.append([nums[left],nums[right]]);
+                left+=1;
+                right-=1;
+            if(nums[left]+nums[right]<target):
+                left+=1;
+            else:
+                right-=1;
 
 instance=Solution3()
 num=[1,2,3,4,5,6,7,8,9,0]
