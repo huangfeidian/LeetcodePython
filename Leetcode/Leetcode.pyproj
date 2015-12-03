@@ -35,7 +35,13 @@
     <Compile Include="BinarySearchClosest.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ConcatenateString.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ContainerWithMostWater.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DevideTwoInteger.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="FourSum.py">
@@ -53,6 +59,9 @@
     <Compile Include="LongestSubstringWithoutRepeat.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="LongestValidParen.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="MedianOfSorted.py">
       <SubType>Code</SubType>
     </Compile>
@@ -62,10 +71,19 @@
     <Compile Include="MergeTwoSortedList.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="NextPermutation.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PalindromeNumber.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="RegularExpressionMatching.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RemoveDuplicateInSorted.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RemoveElements.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="RemoveNthNode.py">
@@ -74,7 +92,22 @@
     <Compile Include="ReverseInteger.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ReverseKGroup.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SearchInsert.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SearchRange.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="StringToInteger.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="strstr.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SwapNodeInPair.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="TwoSum.py">
