@@ -25,7 +25,7 @@ class Solution(object):
         while(temp):
             result.append(temp[0]);
             if(lists[i]):
-                heapq.heappush(headp,(lists[i][0],i);
+                heapq.heappush(headp,(lists[i][0],i));
         return result;
 
 # Definition for singly-linked list.

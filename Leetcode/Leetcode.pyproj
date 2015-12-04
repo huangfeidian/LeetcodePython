@@ -35,19 +35,31 @@
     <Compile Include="BinarySearchClosest.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CombinationSum.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ConcatenateString.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ContainerWithMostWater.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="countAndSay.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="DevideTwoInteger.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FirstMissingPositive.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="FourSum.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="GenerateParen.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="JumpGame.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="LongestCommonPrefix.py">
@@ -74,6 +86,9 @@
     <Compile Include="NextPermutation.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Nqueen.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PalindromeNumber.py">
       <SubType>Code</SubType>
     </Compile>
@@ -95,6 +110,9 @@
     <Compile Include="ReverseKGroup.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="RotateImage.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="SearchInsert.py">
       <SubType>Code</SubType>
     </Compile>
@@ -107,7 +125,13 @@
     <Compile Include="strstr.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="sudokuSolver.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="SwapNodeInPair.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TrapingWater.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="TwoSum.py">
@@ -116,7 +140,16 @@
     <Compile Include="TwoSumClosest.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="UniquePermutation.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ValidParentheses.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="validSodoku.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WildcardMatch.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ZigzagConversion.py">
